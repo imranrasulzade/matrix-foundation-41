@@ -4,6 +4,9 @@ public class Main {
         // salam capa verir bu kod
         System.out.println("Hello");
         System.out.println(85 + 52);
+        System.out.println(85 + 52);
+        System.out.println(85 + 52);
+        System.out.println(85 + 52);
         System.out.println("Minaye");
 
 
