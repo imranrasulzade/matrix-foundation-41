@@ -69,6 +69,24 @@ public class Lesson4 {
 //        System.out.println(sum);
 
 
+ //              1 2 3
+        // 0 1 1 2 3 5 8 13 21 34 55
+//                 1 2 3
+//        int birinci  = 0;
+//        int ikinci = 1;
+//        for(int i = 0; i < 11; i++) {
+//            System.out.print(birinci + " ");
+//            int ucuncu = birinci + ikinci;
+//            birinci = ikinci;
+//            ikinci = ucuncu;
+//        }
+
+
+
+
+
+
+
 
 
 
