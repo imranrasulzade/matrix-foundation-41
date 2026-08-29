@@ -39,12 +39,16 @@ public class Lesson11 {
 //        }
 
 
-        Passenger p = new Passenger("Gulnur", 18);
+//        Passenger p = new Passenger("Gulnur", 18);
+//
+//        Developer de = new Developer();
+//        de.test();
+//
+//
+//
+//        System.out.println(p.getAge());
 
-
-
-
-        System.out.println(p.getAge());
+        Developer developer = new Developer();
 
 
 
